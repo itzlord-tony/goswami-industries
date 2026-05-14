@@ -1,8 +1,8 @@
 <?php
 
-$host = getenv("mysql.railway.internal");
+$host = getenv("mysql-oteg.railway.internal");
 $user = getenv("root");
-$pass = getenv("bFXYhJaygqJqzZLcFCKSfjANZGaFWQwu");
+$pass = getenv("vnyyIoBcQaSLvfIqJVtRGOinRfcXpTjM");
 $dbname = getenv("railway");
 $port = getenv("3306");
 
